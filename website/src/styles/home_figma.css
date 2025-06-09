@@ -1,0 +1,4334 @@
+/* Group 52 */
+
+position: absolute;
+width: 1543px;
+height: 862px;
+
+/* Menu */
+
+position: absolute;
+width: 490px;
+height: 37px;
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 92px;
+
+position: absolute;
+width: 583px;
+height: 22px;
+left: 0px;
+top: 8px;
+
+/* Home */
+
+width: 56px;
+height: 22px;
+
+font-family: 'Jua';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 22px;
+/* identical to box height, or 92% */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Service */
+
+width: 66px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+text-align: center;
+
+color: #846E6E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 2 */
+
+width: 119px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Properties */
+
+position: absolute;
+width: 93px;
+height: 22px;
+left: 306px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+text-align: center;
+
+color: #846E6E;
+
+
+
+/* weui:arrow-outlined */
+
+position: absolute;
+width: 12px;
+height: 24px;
+left: 425px;
+top: 5px;
+
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: -25%;
+top: 45.83%;
+bottom: -8.33%;
+
+background: #846E6E;
+transform: rotate(-90deg);
+
+
+/* About */
+
+width: 54px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+text-align: center;
+
+color: #846E6E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 201.21px;
+height: 37px;
+left: 787.52px;
+top: 0px;
+
+
+
+/* Group 1 */
+
+width: 60px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Eng */
+
+position: absolute;
+width: 34px;
+height: 22px;
+left: 0px;
+top: 7.5px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+text-align: center;
+
+color: #846E6E;
+
+
+
+/* weui:arrow-outlined */
+
+position: absolute;
+width: 12px;
+height: 24px;
+left: 60px;
+top: 12.5px;
+
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.91%;
+right: -20.91%;
+top: 48.27%;
+bottom: -10.77%;
+
+background: #846E6E;
+transform: rotate(-90deg);
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 92px;
+height: 37px;
+
+background: #000000;
+border-radius: 19px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 60px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 53 */
+
+position: absolute;
+width: 1420px;
+height: 612px;
+left: -426px;
+top: 896px;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 1420px;
+height: 612px;
+left: calc(50% - 1420px/2 + 39px);
+top: 896px;
+
+
+
+/* Frame 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 19px;
+
+position: absolute;
+width: 502.99px;
+height: 612px;
+left: -426px;
+top: 896px;
+
+
+
+/* Group 9 */
+
+width: 140px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 0px;
+top: 14px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 19px;
+top: 0px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 19px;
+top: 14px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 38px;
+top: 0px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 38px;
+top: 14px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 57px;
+top: 0px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 57px;
+top: 14px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 76px;
+top: 0px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 14 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 76px;
+top: 14px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 95px;
+top: 0px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 95px;
+top: 14px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 114px;
+top: 0px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 16 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 114px;
+top: 14px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Ellipse 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 133px;
+top: 0px;
+
+background: #FFFFFF;
+border: 5px solid #F8E895;
+filter: blur(0.45px);
+
+
+/* Group 10 */
+
+width: 424px;
+height: 572px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* unsplash:042Srn0-82o */
+
+position: absolute;
+width: 366px;
+height: 490px;
+left: 0px;
+top: 40px;
+
+background: url(.jpg);
+border-radius: 20px;
+
+
+/* unsplash:2d4lAQAlbDA */
+
+position: absolute;
+width: 218px;
+height: 234px;
+left: 206px;
+top: 378px;
+
+background: url(.jpg);
+border-radius: 20px;
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+align-content: flex-start;
+padding: 0px;
+gap: 49px 99px;
+
+position: absolute;
+width: 720.08px;
+height: 567px;
+left: 273.92px;
+top: 928px;
+
+
+
+/* About Us */
+
+width: 99px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 22px;
+/* identical to box height, or 92% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 11 */
+
+width: 605px;
+height: 206px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Dream Living Spaces Setting New Build */
+
+position: absolute;
+width: 605px;
+height: 94px;
+left: 0px;
+top: 71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 22px;
+/* or 34% */
+
+color: #000000;
+
+
+
+/* Keeping customer delight at the forefront, we make it a point to deliver world-class standards of quality */
+
+position: absolute;
+width: 589px;
+height: 57px;
+left: 8px;
+top: 220px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 22px;
+/* or 92% */
+
+color: #7A7A7A;
+
+
+
+/* Consultation */
+
+width: 236px;
+height: 144px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Free Consultation */
+
+position: absolute;
+width: 222px;
+height: 22px;
+left: 0px;
+top: 387px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 22px;
+/* identical to box height, or 79% */
+
+color: #000000;
+
+
+
+/* We are constantly growing or learning and improving */
+
+position: absolute;
+width: 236px;
+height: 46px;
+left: 0px;
+top: 424px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* or 110% */
+
+color: #000000;
+
+
+
+/* Consultation */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 91px;
+top: 326px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 13.75%;
+right: 82.78%;
+top: 58.73%;
+bottom: 36.68%;
+
+background: #6E6E6E;
+
+
+/* Ellipse 17 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 91px;
+top: 326px;
+
+border: 0.5px solid #7A7777;
+
+
+/* Team Member */
+
+width: 272px;
+height: 144px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Best Team Members */
+
+position: absolute;
+width: 260px;
+height: 22px;
+left: 335px;
+top: 387px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 22px;
+/* identical to box height, or 79% */
+
+color: #000000;
+
+
+
+/* The basic philosophy of studio is to create individual design */
+
+position: absolute;
+width: 272px;
+height: 46px;
+left: 335px;
+top: 424px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* or 110% */
+
+color: #000000;
+
+
+
+/* Team Member */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 445px;
+top: 326px;
+
+
+
+/* Ellipse 18 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 445px;
+top: 326px;
+
+border: 0.5px solid #7A7777;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.91%;
+right: 33.62%;
+top: 58.73%;
+bottom: 36.86%;
+
+background: #6E6E6E;
+
+
+/* Frame 8 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 15px;
+gap: 6px;
+
+width: 175px;
+height: 48px;
+
+border: 1.5px solid #827D7D;
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* VIEW PROJECTS */
+
+width: 113px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 147% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 10px;
+height: 13px;
+
+background: #000000;
+transform: rotate(43deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 273px;
+height: 160px;
+
+
+
+/* 2 1 */
+
+width: 160px;
+height: 160px;
+
+background: url(.png);
+border-radius: 250px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Estate Echo */
+
+width: 113px;
+height: 56px;
+
+font-family: 'Gluten';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 22px;
+/* or 69% */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 21px;
+
+position: absolute;
+width: 487px;
+height: 180px;
+
+
+
+/* Find the perfect */
+
+width: 487px;
+height: 47px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 22px;
+/* or 34% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* home for you */
+
+width: 487px;
+height: 47px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 22px;
+/* or 34% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* You can easily find a variety of properties that suit your needs, so forget all the difficulties in finding a residence */
+
+width: 496px;
+height: 44px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* or 110% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 3px;
+
+position: absolute;
+width: 140px;
+height: 39px;
+
+background: #000000;
+border-radius: 57px;
+
+
+/* GET STARTED */
+
+width: 97px;
+height: 19px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* or 147% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 10px;
+height: 13px;
+
+background: #FFFFFF;
+transform: rotate(43deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 14px;
+isolation: isolate;
+
+position: absolute;
+width: 176px;
+height: 40px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+width: 40px;
+height: 40px;
+
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Working Process */
+
+width: 122px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* bxs:up-arrow */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 33px;
+top: 8px;
+
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.22%;
+right: -66.55%;
+top: 8.33%;
+bottom: 29.28%;
+
+background: #000000;
+transform: rotate(90deg);
+
+
+/* Frame 33 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 697px;
+height: 671px;
+
+
+
+/* unsplash:B0aCvAVSX8E */
+
+width: 677px;
+height: 431px;
+
+background: url(.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 49 */
+
+width: 100px;
+height: 100px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 48 */
+
+width: 100px;
+height: 100px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 8 */
+
+position: absolute;
+width: 1543px;
+height: 269px;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 1543px;
+height: 269px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1543px;
+height: 231px;
+
+background: #262626;
+
+
+/* unsplash:g9ydDMdpfM0 */
+
+position: absolute;
+width: 208.66px;
+height: 269px;
+
+background: url(.jpg);
+border-radius: 100px 100px 0px 0px;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 279.28px;
+height: 142px;
+
+
+
+/* Who We Are? */
+
+position: absolute;
+width: 255.74px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 22px;
+/* identical to box height, or 55% */
+
+color: #FFFFFF;
+
+
+
+/* Read more */
+
+position: absolute;
+width: 103.79px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #FFFFFF;
+
+
+
+/* We’ll help you find the key to your dream home */
+
+position: absolute;
+width: 267.51px;
+height: 44px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* or 110% */
+
+color: #B5B5B5;
+
+
+
+/* Search */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-end;
+align-content: flex-start;
+padding: 0px;
+gap: 9px 12px;
+
+position: absolute;
+width: 600.29px;
+height: 31px;
+
+
+
+/* Vector */
+
+width: 21px;
+height: 21px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Search */
+
+width: 63px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #E4D9D9;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 1 */
+
+width: 561px;
+height: 0px;
+
+border: 1px solid #C6BBBB;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Premium House */
+
+position: absolute;
+width: 124.12px;
+height: 56px;
+
+
+
+/* 180+ */
+
+position: absolute;
+width: 78.11px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 22px;
+/* identical to box height, or 69% */
+
+color: #FFFFFF;
+
+
+
+/* Premium House */
+
+position: absolute;
+width: 124.12px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #AB9696;
+
+
+
+/* Agent House */
+
+position: absolute;
+width: 99.51px;
+height: 56px;
+
+
+
+/* Agent House */
+
+position: absolute;
+width: 99.51px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #AB9696;
+
+
+
+/* 1200+ */
+
+position: absolute;
+width: 97.37px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 22px;
+/* identical to box height, or 69% */
+
+color: #FFFFFF;
+
+
+
+/* Happy Clients */
+
+position: absolute;
+width: 107px;
+height: 56px;
+
+
+
+/* Happy Clients */
+
+position: absolute;
+width: 107px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #AB9696;
+
+
+
+/* 14k */
+
+position: absolute;
+width: 57.78px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 22px;
+/* identical to box height, or 69% */
+
+color: #FFFFFF;
+
+
+
+/* Services */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: relative;
+width: 1361px;
+height: 108px;
+
+
+
+/* Group 53 */
+
+width: 1361px;
+height: 108px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+position: absolute;
+width: 1361px;
+height: 108px;
+left: 0px;
+top: 0px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 980px;
+height: 108px;
+left: 0px;
+top: 0px;
+
+
+
+/* Where Your New */
+
+position: absolute;
+width: 518px;
+height: 18px;
+left: 0px;
+top: 12px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 17px;
+/* or 35% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Beginnings Start! */
+
+position: absolute;
+width: 544px;
+height: 26px;
+left: 0px;
+top: 76px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 25px;
+/* or 52% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Line 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 108px;
+height: 0px;
+left: 503px;
+top: 0px;
+
+border: 5px solid #BDABAB;
+transform: rotate(89.47deg);
+
+
+/* Look for agency with a proven track record of success in buying, selling or renting properties */
+
+position: absolute;
+width: 416px;
+height: 98px;
+left: 564px;
+top: 3px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 22px;
+/* or 100% */
+letter-spacing: 1px;
+
+color: #857676;
+
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 0px 14px 3px;
+gap: 5px;
+
+position: absolute;
+width: 157px;
+height: 50px;
+left: 1163px;
+top: 29px;
+
+background: #000000;
+border-radius: 50px;
+
+
+/* All Services */
+
+width: 94px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 10px;
+height: 13px;
+
+background: #FFFFFF;
+transform: rotate(43deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 32 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 50px;
+
+position: relative;
+width: 537px;
+height: 178px;
+
+
+
+/* Group 31 */
+
+width: 537px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Analyze Emerging */
+
+position: absolute;
+width: 451px;
+height: 17px;
+left: 43px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 17px;
+/* identical to box height, or 34% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Market Opportunities */
+
+position: absolute;
+width: 537px;
+height: 17px;
+left: 0px;
+top: 56px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 17px;
+/* identical to box height, or 34% */
+text-align: center;
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Group 26 */
+
+width: 403px;
+height: 55px;
+
+filter: drop-shadow(1px -1px 1px rgba(0, 0, 0, 0.1)) drop-shadow(-1px 1px 1px rgba(0, 0, 0, 0.1));
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 403px;
+height: 55px;
+left: 67px;
+top: 123px;
+
+background: #E7ECF1;
+border-radius: 51px;
+
+
+/* Rent */
+
+position: absolute;
+width: 59px;
+height: 17px;
+left: 230px;
+top: 142px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Sold */
+
+position: absolute;
+width: 57px;
+height: 17px;
+left: 369px;
+top: 142px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 120px;
+height: 55px;
+left: 67px;
+top: 123px;
+
+background: #5EC5F1;
+border-radius: 50px;
+
+
+/* Buy */
+
+position: absolute;
+width: 47px;
+height: 17px;
+left: 104px;
+top: 142px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 65px;
+
+position: relative;
+width: 1266px;
+height: 319px;
+
+
+
+/* Group 53 */
+
+width: 1231px;
+height: 319px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Buy Home */
+
+position: absolute;
+width: 259px;
+height: 319px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 1.6px rgba(0, 0, 0, 0.15);
+border-radius: 15px;
+
+
+/* Vector */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 20px;
+top: 27.59px;
+
+border: 4px solid #000000;
+
+
+/* Group 22 */
+
+position: absolute;
+width: 246px;
+height: 194.4px;
+left: 6px;
+top: 105.6px;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 175.81px;
+height: 30.4px;
+left: 17px;
+top: 269.6px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 68.28%;
+right: 24%;
+top: 84.51%;
+bottom: 8.28%;
+
+background: #000000;
+transform: rotate(37deg);
+
+
+/* Read More */
+
+position: absolute;
+width: 141px;
+height: 17px;
+left: 17px;
+top: 275.6px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Buy Your Home */
+
+position: absolute;
+width: 203px;
+height: 17px;
+left: 6px;
+top: 105.6px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Always evolving, learning and getting better */
+
+position: absolute;
+width: 246px;
+height: 27px;
+left: 6px;
+top: 157.6px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 0px;
+/* or 0% */
+letter-spacing: 1px;
+
+color: #000000;
+
+
+
+/* Sell Home */
+
+position: absolute;
+width: 259px;
+height: 319px;
+left: 324px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 1.6px rgba(0, 0, 0, 0.15);
+border-radius: 15px;
+
+
+/* Group */
+
+position: absolute;
+width: 54px;
+height: 48px;
+left: 20px;
+top: 18.59px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.72%;
+right: 71.43%;
+top: 5.83%;
+bottom: 83.32%;
+
+border: 4px solid #040404;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.81%;
+right: 73.51%;
+top: 12.48%;
+bottom: 79.12%;
+
+border: 4px solid #040404;
+
+
+/* Group 23 */
+
+position: absolute;
+width: 246px;
+height: 194.4px;
+left: 5px;
+top: 106.6px;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 175.81px;
+height: 30.4px;
+left: 5.81px;
+top: 270.6px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 63.96%;
+right: 28.32%;
+top: 84.83%;
+bottom: 7.96%;
+
+background: #000000;
+transform: rotate(37deg);
+
+
+/* Read More */
+
+position: absolute;
+width: 141px;
+height: 17px;
+left: 5.81px;
+top: 276.6px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Easily Sell Home */
+
+position: absolute;
+width: 225px;
+height: 17px;
+left: 5px;
+top: 106.6px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Always evolving, learning and getting better */
+
+position: absolute;
+width: 246px;
+height: 27px;
+left: 5px;
+top: 158.6px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 0px;
+/* or 0% */
+letter-spacing: 1px;
+
+color: #000000;
+
+
+
+/* Rent Home Safely */
+
+position: absolute;
+width: 259px;
+height: 319px;
+left: 648px;
+top: 0px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 259px;
+height: 319px;
+left: 648px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 1.6px rgba(0, 0, 0, 0.15);
+border-radius: 15px;
+
+
+/* Read More */
+
+position: absolute;
+width: 141px;
+height: 17px;
+left: 658px;
+top: 276px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 29.81px;
+height: 30.4px;
+left: 804px;
+top: 270px;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 29.81px;
+height: 30.4px;
+left: 804px;
+top: 270px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 64.6%;
+right: 33.82%;
+top: 84.64%;
+bottom: 8.15%;
+
+background: #000000;
+transform: rotate(37deg);
+
+
+/* Rent Home Safely */
+
+position: absolute;
+width: 238px;
+height: 17px;
+left: 658px;
+top: 106px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Always evolving, learning and getting better */
+
+position: absolute;
+width: 246px;
+height: 27px;
+left: 658px;
+top: 158px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 0px;
+/* or 0% */
+letter-spacing: 1px;
+
+color: #000000;
+
+
+
+/* Group */
+
+position: absolute;
+left: 52.84%;
+right: 42.89%;
+top: 5.64%;
+bottom: 79.31%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.84%;
+right: 42.89%;
+top: 5.64%;
+bottom: 90.22%;
+
+border: 4px solid #040404;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.27%;
+right: 43.32%;
+top: 12.3%;
+bottom: 79.31%;
+
+border: 4px solid #040404;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.11%;
+right: 44.08%;
+top: 10.03%;
+bottom: 81.5%;
+
+border: 4px solid #000000;
+
+
+/* Partner */
+
+position: absolute;
+width: 259px;
+height: 319px;
+left: 972px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 1.6px rgba(0, 0, 0, 0.15);
+border-radius: 15px;
+
+
+/* Vector */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 20px;
+top: 21.8px;
+
+background: #000000;
+
+
+/* Group 25 */
+
+position: absolute;
+width: 246px;
+height: 194.4px;
+left: 1px;
+top: 102.8px;
+
+
+
+/* Read More */
+
+position: absolute;
+width: 141px;
+height: 17px;
+left: 6px;
+top: 272.8px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 29.81px;
+height: 30.4px;
+left: 152px;
+top: 266.8px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 64.03%;
+right: 28.25%;
+top: 83.64%;
+bottom: 9.15%;
+
+background: #000000;
+transform: rotate(37deg);
+
+
+/* Be Partner Home */
+
+position: absolute;
+width: 227px;
+height: 17px;
+left: 1px;
+top: 102.8px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 17px;
+/* identical to box height, or 71% */
+letter-spacing: 3px;
+
+color: #000000;
+
+
+
+/* Always evolving, learning and getting better */
+
+position: absolute;
+width: 246px;
+height: 27px;
+left: 1px;
+top: 154.8px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 0px;
+/* or 0% */
+letter-spacing: 1px;
+
+color: #000000;
+
+
+
+/* Frame 39 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 4px;
+gap: 41px;
+isolation: isolate;
+
+position: relative;
+width: 548px;
+height: 94px;
+
+border: 2px solid #908787;
+border-radius: 50px;
+
+
+/* Enter city or Zip Code */
+
+width: 250px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 22px;
+/* identical to box height, or 85% */
+
+color: #928484;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 8 */
+
+width: 201px;
+height: 86px;
+
+background: #000000;
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Search */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-end;
+align-content: flex-start;
+padding: 0px;
+gap: 9px 12px;
+
+position: absolute;
+width: 133px;
+height: 22px;
+left: 378px;
+top: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Vector */
+
+width: 21px;
+height: 21px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Search */
+
+width: 100px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 22px;
+/* identical to box height, or 69% */
+
+color: #E4D9D9;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 38 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: relative;
+width: 289px;
+height: 694px;
+
+
+
+/* unsplash:XjiBN3aQcQ4 */
+
+width: 289px;
+height: 612px;
+
+background: url(.jpg);
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 35 */
+
+width: 179px;
+height: 66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Boston, MA */
+
+position: absolute;
+width: 179px;
+height: 27px;
+left: 0px;
+top: 628px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 22px;
+/* or 69% */
+
+color: #000000;
+
+
+
+/* 4bd */
+
+position: absolute;
+width: 34px;
+height: 22px;
+left: 40px;
+top: 671px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #6E6868;
+
+
+
+/* 4ba */
+
+position: absolute;
+width: 34px;
+height: 22px;
+left: 141px;
+top: 671px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #6E6868;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 2.08%;
+right: 90.66%;
+top: 97.41%;
+bottom: 0.72%;
+
+background: #CCCCCC;
+border: 4px solid #CCCCCC;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.99%;
+right: 53.63%;
+top: 96.54%;
+bottom: 0%;
+
+background: #CCCCCC;
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: relative;
+width: 440px;
+height: 599px;
+
+
+
+/* unsplash:m7_lccaGaYA */
+
+width: 440px;
+height: 512px;
+
+background: url(.jpg);
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 36 */
+
+width: 431px;
+height: 77px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Sandy Springs, GA */
+
+position: absolute;
+width: 278.1px;
+height: 27px;
+left: 4.5px;
+top: 531px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 22px;
+/* or 69% */
+
+color: #000000;
+
+
+
+/* Group 33 */
+
+position: absolute;
+width: 124.17px;
+height: 45px;
+left: 311.33px;
+top: 522px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 124.17px;
+height: 45px;
+left: calc(50% - 124.17px/2 + 153.42px);
+top: calc(50% - 45px/2 + 245px);
+
+background: #F9F2F2;
+border-radius: 50px;
+
+
+/* $540,800 */
+
+position: absolute;
+width: 102.62px;
+height: 22px;
+left: 329.8px;
+top: 534px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #000000;
+
+
+
+/* 2bd */
+
+position: absolute;
+width: 34.89px;
+height: 22px;
+left: 40.42px;
+top: 577px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #6E6868;
+
+
+
+/* 2ba */
+
+position: absolute;
+width: 34.89px;
+height: 22px;
+left: 136.88px;
+top: 577px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #6E6868;
+
+
+
+/* 860 sqft */
+
+position: absolute;
+width: 75.94px;
+height: 22px;
+left: 225.13px;
+top: 577px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #6E6868;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 21.78%;
+right: 71.22%;
+top: 95.83%;
+bottom: 0.17%;
+
+background: #CCCCCC;
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 28.73px;
+height: 17px;
+left: 188.19px;
+top: 580px;
+
+border: 2px solid #D9D9D9;
+border-radius: 1px;
+
+
+/* Frame 35 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+position: relative;
+width: 440px;
+height: 604px;
+
+
+
+/* unsplash:HupLwltbW3k */
+
+width: 440px;
+height: 512px;
+
+background: url(.jpg);
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 37 */
+
+width: 440px;
+height: 75px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Atlanta, GA */
+
+position: absolute;
+width: 183.94px;
+height: 27px;
+left: 0px;
+top: 538px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 22px;
+/* or 67% */
+
+color: #000000;
+
+
+
+/* Group 32 */
+
+position: absolute;
+width: 126.46px;
+height: 45px;
+left: 313.54px;
+top: 529px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 126.46px;
+height: 45px;
+left: 313.54px;
+top: 529px;
+
+background: #F9F2F2;
+border-radius: 50px;
+
+
+/* $3500,000 */
+
+position: absolute;
+width: 98.24px;
+height: 22px;
+left: 327.13px;
+top: 541px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #000000;
+
+
+
+/* 2bd */
+
+position: absolute;
+width: 35.53px;
+height: 22px;
+left: 31.35px;
+top: 582px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #6E6868;
+
+
+
+/* 2ba */
+
+position: absolute;
+width: 35.53px;
+height: 22px;
+left: 125.42px;
+top: 582px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #6E6868;
+
+
+
+/* 880 sqft */
+
+position: absolute;
+width: 77.34px;
+height: 22px;
+left: 223.66px;
+top: 582px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #6E6868;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 95.01%;
+top: 97.19%;
+bottom: 0.66%;
+
+background: #CCCCCC;
+border: 4px solid #CCCCCC;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.72%;
+right: 73.16%;
+top: 96.03%;
+bottom: 0%;
+
+background: #CCCCCC;
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 29.26px;
+height: 17px;
+left: 186.03px;
+top: 585px;
+
+border: 2px solid #D9D9D9;
+border-radius: 1px;
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-end;
+padding: 0px;
+gap: 12px;
+
+position: relative;
+width: 350px;
+height: 1194.32px;
+
+
+
+/* unsplash:Nk2-WXBSlZQ */
+
+width: 294px;
+height: 589px;
+
+background: url(.jpg);
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 38 */
+
+width: 426px;
+height: 593.32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Springs, GA */
+
+position: absolute;
+width: 176px;
+height: 27px;
+left: 5px;
+top: 606px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 22px;
+/* or 67% */
+
+color: #000000;
+
+
+
+/* Group 34 */
+
+position: absolute;
+width: 343px;
+height: 593.32px;
+left: 7px;
+top: 601px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 121px;
+height: 45px;
+left: 229px;
+top: 601px;
+
+background: #F9F2F2;
+border-radius: 50px;
+
+
+/* $2500,000 */
+
+position: absolute;
+width: 96px;
+height: 22px;
+left: 241px;
+top: 613px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2%;
+right: 89.43%;
+top: 97.68%;
+bottom: 0%;
+
+background: #CCCCCC;
+
+
+/* 850 sqft */
+
+position: absolute;
+width: 74px;
+height: 22px;
+left: 144px;
+top: 650px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #000000;
+
+
+
+/* 2bd */
+
+position: absolute;
+width: 34px;
+height: 22px;
+left: -46px;
+top: 654px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #000000;
+
+
+
+/* 2ba */
+
+position: absolute;
+width: 34px;
+height: 22px;
+left: 46px;
+top: 650px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #000000;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: -21.71%;
+right: 115.71%;
+top: 98.36%;
+bottom: 0.39%;
+
+background: #CCCCCC;
+border: 4px solid #CCCCCC;
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 28px;
+height: 17px;
+left: 104px;
+top: 653px;
+
+border: 2px solid #D9D9D9;
+border-radius: 1px;
+
+
+/* Frame 34 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 15px;
+gap: 6px;
+
+position: relative;
+width: 147px;
+height: 51px;
+
+border: 1px solid #706666;
+border-radius: 50px;
+
+
+/* VIEW ALL */
+
+width: 70px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 15.03px;
+height: 14.97px;
+
+background: #000000;
+transform: rotate(37deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 45 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 282px;
+
+position: relative;
+width: 1339px;
+height: 67px;
+
+
+
+/* testimonials and learn about their success stories and positive experiences with our services */
+
+width: 518px;
+height: 54px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 0px;
+/* or 0% */
+letter-spacing: 2px;
+
+color: #837F7F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 39 */
+
+width: 539px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* What our Investors */
+
+position: absolute;
+width: 539px;
+height: 0px;
+left: 800px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+
+/* Have to Say */
+
+position: absolute;
+width: 338px;
+height: 0px;
+left: 1001px;
+top: 67px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* Group 50 */
+
+position: absolute;
+width: 1415px;
+height: 748px;
+
+
+
+/* Frame 40 */
+
+position: absolute;
+width: 643px;
+height: 748px;
+
+background: url(.jpg);
+border-radius: 30px;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 456px;
+height: 155px;
+left: -1px;
+top: -1px;
+
+background: #F6FBFF;
+border-radius: 0px 0px 51px 0px;
+
+
+/* Group 40 */
+
+position: absolute;
+width: 451.59px;
+height: 150.8px;
+left: 10px;
+top: 27px;
+
+
+
+/* What our Investors */
+
+position: absolute;
+width: 405px;
+height: 0px;
+left: 10px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+
+/* Have to Say */
+
+position: absolute;
+width: 254px;
+height: 0px;
+left: 10px;
+top: 92.27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 0px;
+/* identical to box height, or 0% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* Group */
+
+position: absolute;
+left: 71.79%;
+right: 15.18%;
+top: 15.48%;
+bottom: 73.47%;
+
+transform: matrix(-0.67, 0.74, -0.57, -0.82, 0, 0);
+
+
+/* Ellipse 19 */
+
+position: absolute;
+width: 59.31px;
+height: 55.96px;
+left: 380.7px;
+top: 85.15px;
+
+background: #2E3030;
+transform: matrix(1, -0.01, -0.01, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 65.33%;
+right: 32.43%;
+top: 15.67%;
+bottom: 81.8%;
+
+background: #FFFFFF;
+transform: matrix(-0.67, 0.74, -0.57, -0.82, 0, 0);
+
+
+/* Group 41 */
+
+position: absolute;
+width: 681px;
+height: 1px;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 249px;
+height: 0px;
+
+border: 4px solid #000000;
+
+
+/* Line 4 */
+
+position: absolute;
+width: 176px;
+height: 0px;
+
+border: 4px solid #AEAEAE;
+
+
+/* Line 5 */
+
+position: absolute;
+width: 176px;
+height: 0px;
+
+border: 4px solid #AEAEAE;
+
+
+/* 01 */
+
+position: absolute;
+width: 37px;
+height: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+
+/* Frame 44 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 52px 41px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 737px;
+height: 230px;
+
+filter: drop-shadow(0px 0px 1.5px rgba(0, 0, 0, 0.15));
+
+
+/* Frame 43 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 737px;
+height: 230px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 14 */
+
+width: 717px;
+height: 210px;
+
+background: #FFFFFF;
+opacity: 0.2;
+box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.15);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 42 */
+
+width: 629px;
+height: 114px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Looking for additional information? */
+
+position: absolute;
+width: 629px;
+height: 0px;
+left: 41px;
+top: 52px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+
+/* Discover comprehensive information, in-depth insights, and valuable resources to enhance your understanding and knowledge */
+
+position: absolute;
+width: 522px;
+height: 58px;
+left: 45px;
+top: 108px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 0px;
+/* or 0% */
+
+color: #807878;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 732px;
+height: 237px;
+
+
+
+/* Frame 41 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 325px;
+height: 235px;
+
+
+
+/* unsplash:_4U19TDp1bw */
+
+width: 305px;
+height: 215px;
+
+background: url(.jpg);
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 42 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 399px;
+height: 237px;
+
+
+
+/* unsplash:NLbMgDBio4Y */
+
+width: 379px;
+height: 217px;
+
+background: url(.jpg);
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* User */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px 13px;
+gap: 10px;
+
+position: absolute;
+width: 717px;
+height: 210px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 1.5px rgba(0, 0, 0, 0.15);
+border-radius: 20px;
+
+
+/* Group 43 */
+
+width: 598px;
+height: 189px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sunny Soni */
+
+position: absolute;
+width: 198px;
+height: 0px;
+left: 329px;
+top: 50px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+
+/* Data Science Professional Dedicated Career Coach */
+
+position: absolute;
+width: 280px;
+height: 34px;
+left: 331px;
+top: 93px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 0px;
+/* or 0% */
+
+color: #656565;
+
+
+
+/* unsplash:_3vfugHP3Ro */
+
+position: absolute;
+width: 233px;
+height: 189px;
+left: 13px;
+top: 10px;
+
+background: url(.jpg);
+border-radius: 20px;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 1405px;
+height: 607px;
+
+background: #CFEAFF;
+border-radius: 30px;
+
+
+/* Group 45 */
+
+position: absolute;
+width: 594px;
+height: 369.38px;
+
+
+
+/* Curious for more infoe? Discover now */
+
+position: absolute;
+width: 531px;
+height: 76px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 17px;
+/* or 35% */
+letter-spacing: 1px;
+
+color: #000000;
+
+
+
+/* Eager to learn more? Explore additional details and insights here for a deeper understanding now */
+
+position: absolute;
+width: 594px;
+height: 37px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 0px;
+/* or 0% */
+letter-spacing: 1px;
+
+color: #676767;
+
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 30px 20px;
+gap: 10px;
+
+position: absolute;
+width: 183px;
+height: 60px;
+
+background: #2E3030;
+border-radius: 50px;
+
+
+/* ENQUIRE NOW */
+
+width: 143px;
+height: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 0px;
+/* identical to box height, or 0% */
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+width: 90px;
+height: 90px;
+
+transform: matrix(1, 0, -0.28, 0.96, 0, 0);
+
+
+/* Ellipse 19 */
+
+position: absolute;
+width: 61.75px;
+height: 62.2px;
+
+background: #2E3030;
+transform: matrix(0.75, -0.66, 0.68, 0.73, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+width: 17.52px;
+height: 19.28px;
+
+background: #FFFFFF;
+transform: rotate(46deg);
+
+
+/* unsplash:YkXbHOGI8ZY */
+
+position: absolute;
+width: 639px;
+height: 479px;
+
+background: url(.jpg);
+border-radius: 0px 0px 30px 0px;
+
+
+/* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+position: relative;
+width: 273px;
+height: 160px;
+
+
+
+/* 2 1 */
+
+width: 160px;
+height: 160px;
+
+background: url(.png);
+border-radius: 250px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Estate Echo */
+
+width: 113px;
+height: 56px;
+
+font-family: 'Gluten';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 22px;
+/* or 69% */
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 48 */
+
+position: absolute;
+width: 535px;
+height: 150px;
+
+
+
+/* Unlock The Door To Your New Home With Easy */
+
+position: absolute;
+width: 373px;
+height: 72px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+/* or 129% */
+
+color: #999999;
+
+
+
+/* Home */
+
+position: absolute;
+width: 76px;
+height: 36px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+/* identical to box height, or 129% */
+
+color: #999999;
+
+
+
+/* Service */
+
+position: absolute;
+width: 92px;
+height: 36px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+/* identical to box height, or 129% */
+
+color: #999999;
+
+
+
+/* Properties */
+
+position: absolute;
+width: 129px;
+height: 36px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+/* identical to box height, or 129% */
+
+color: #999999;
+
+
+
+/* About */
+
+position: absolute;
+width: 75px;
+height: 36px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+/* identical to box height, or 129% */
+
+color: #999999;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 210px;
+height: 174px;
+
+
+
+/* Help */
+
+position: absolute;
+width: 67px;
+height: 36px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 36px;
+/* identical to box height, or 112% */
+
+color: #000000;
+
+
+
+/* Customer Support */
+
+position: absolute;
+width: 197px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+color: #999999;
+
+
+
+/* Terms 6 Conditions */
+
+position: absolute;
+width: 210px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+color: #999999;
+
+
+
+/* Privacy Policy */
+
+position: absolute;
+width: 151px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+color: #999999;
+
+
+
+/* Group 46 */
+
+position: absolute;
+width: 336px;
+height: 135.5px;
+
+
+
+/* Subscribe To Our Newsletter */
+
+position: absolute;
+width: 215px;
+height: 54px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 27px;
+/* or 96% */
+
+color: #000000;
+
+
+
+/* Enter Your Mail Address */
+
+position: absolute;
+width: 214px;
+height: 36px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 36px;
+/* identical to box height, or 180% */
+
+color: #999999;
+
+
+
+/* Frame 47 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 7px;
+gap: 10px;
+
+position: absolute;
+width: 29px;
+height: 29px;
+
+background: #000000;
+border-radius: 5px;
+
+
+/* Vector */
+
+width: 15px;
+height: 15px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 6 */
+
+position: absolute;
+width: 312px;
+height: 0px;
+
+border: 2px solid #999999;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 1440px;
+height: 0px;
+
+border: 2px solid #999999;
+
+
+/* 2024ESTATE ECHO All Rights Reserved */
+
+position: absolute;
+width: 418px;
+height: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #999999;
+
+
+
+/* Group 51 */
+
+position: absolute;
+width: 353px;
+height: 27px;
+
+
+
+/* Follow us: */
+
+position: absolute;
+width: 127px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 27px;
+/* identical to box height, or 96% */
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 25px;
+height: 25px;
+
+background: #000000;
+
+
+/* Path 2520 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+
+background: #000000;
+
+
+/* g10 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g12 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path14 */
+
+position: absolute;
+width: 25px;
+height: 24.85px;
+
+background: #100F0D;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path16 */
+
+position: absolute;
+width: 10.69px;
+height: 20.12px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* x_icon.jpeg */
+
+position: absolute;
+width: 25px;
+height: 25px;
+
+background: url(.jpg);
